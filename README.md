@@ -14,3 +14,6 @@ ADS_FREQUENCY - frequency of advertisements. E.g. 5 articles - 1 advertisement, 
 ADV_DEFAULT_TEXT=Ad - default text, if no advertisements found
 
 
+Testing: go test
+
+
